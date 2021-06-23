@@ -8,7 +8,7 @@ outputname='meme.png'
 memeimage=path.join(memefolder, memename)
 memeresult=path.join(memefolder, outputname)
 
-text="I will not instigate revolution."
+text="I dont understand python."
 textsize=40
 origen=(50, 40)
 rep=16
